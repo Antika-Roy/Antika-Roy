@@ -13,6 +13,6 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If you took out all the empty space in our atoms, the human race could fit in the volume of a sugar cube
 
-![Antika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a&show_icons=true&theme=radical)
+![Antika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antika-Roy&show_icons=true&theme=radical)
 
 
