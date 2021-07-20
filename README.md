@@ -1,9 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"> Hi there, I'm Antika Roy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<!--
-**Antika-Roy/Antika-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+<h1 align="center"> Hi there, I'm Antika Roy <img src="" width="30px"> ! </h1>
 
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning Machine learning
