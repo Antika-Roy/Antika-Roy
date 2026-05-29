@@ -2,10 +2,10 @@
 <h1 align="center"> Hi there, I'm Antika Roy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img width="32%" align="right" alt="Github Image" src="gabi-d.gif" />
 
-- 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Machine learning
+- 🔭 I’m currently working as a graduate research assistant in University of Florida
+- 🌱 I’m currently learning VLM
 - 🤔 I’m looking for help with ML
-- 💬 Ask me about Java OOP
+- 💬 Ask me about LLM, Model Optimization, PEFT, Gen AI
 - 📫 How to reach me: email - antika.roy121@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If you took out all the empty space in our atoms, the human race could fit in the volume of a sugar cube
